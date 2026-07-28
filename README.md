@@ -33,7 +33,7 @@ Run the program:
 
 ## Example Output
 
-See the included screenshot for an example of the program's output.
+![Example Output](example-output.png)
 
 ## Author
 
