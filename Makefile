@@ -1,2 +1,2 @@
 all:
-	gcc FIFO.c -o memory_manager
+	gcc memory_manager.c -o memory_manager
